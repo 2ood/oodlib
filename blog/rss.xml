@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>2ood's Dev log Blog</title>
+        <link>https://2ood.github.io/oodlib/blog</link>
+        <description>2ood's Dev log Blog</description>
+        <lastBuildDate>Sat, 15 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[2023-04-15]]></title>
+            <link>https://2ood.github.io/oodlib/blog/welcome-docusaurus-v2</link>
+            <guid>https://2ood.github.io/oodlib/blog/welcome-docusaurus-v2</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
+            <content:encoded><![CDATA[<p>Hello!</p>]]></content:encoded>
+            <category>first-blog</category>
+        </item>
+    </channel>
+</rss>
