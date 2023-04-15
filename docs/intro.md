@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Intro
+# Welcome
 
 This is an intro file of /docs.

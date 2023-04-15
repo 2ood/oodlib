@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35814ed5cc3b0a6d",
+            "id": "764a3c3e3ed71afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/docusaurus-installed.md",
+                "file": "projects/blog/2023-04-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7299e7e205e1f94e",
+            "id": "eda5c3c55be04698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/intro.md",
+                "file": "blog/blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad8b6ff6499bb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/blog/2023-04-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/intro.md",
+                "file": "projects/blog/2023-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/intro.md",
+                "file": "projects/blog/2023-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/intro.md"
+                "file": "projects/blog/2023-04-15.md"
               }
             }
           }
@@ -159,11 +170,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7299e7e205e1f94e",
+  "active": "764a3c3e3ed71afe",
   "lastOpenFiles": [
-    "coding/docusaurus-installed.md",
-    "coding/intro.md",
     "intro.md",
+    "projects/blog/overview.md",
+    "projects/projects.md",
+    "projects/blog.md",
+    "projects/blog/2023-04-15.md",
+    "blog/blog.md",
+    "blog/2023-04-15.md",
+    "coding/coding.md",
+    "projects/blog/2021-12-18.md",
+    "projects/blog/2023-04-06.md",
+    "projects/blog/2022-00-00.md",
+    "velog.io/2ood.md",
+    "velog.io",
+    "blog",
+    "projects/blog",
+    "coding/docusaurus-installed.md",
     "tutorial-basics/create-a-page.md",
     "tutorial-extras/translate-your-site.md",
     "tutorial-extras/manage-docs-versions.md",
