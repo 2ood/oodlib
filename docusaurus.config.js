@@ -61,8 +61,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: `2ood's Dev blog`,
         logo: {
@@ -70,14 +68,8 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Personal Writings', position: 'left'},
-          {to: '/projects/intro', label: 'Projects', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/projects/intro', label: 'Projects', position: 'left'},
           {to: '/docs/coding/intro', label : 'Coding', position : 'left'},
           {
             href: 'https://github.com/2ood',
@@ -93,7 +85,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Browse docs',
                 to: '/docs/intro',
               },
             ],

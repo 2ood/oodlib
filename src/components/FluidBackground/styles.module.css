@@ -1,0 +1,129 @@
+.fluid {
+    position : absolute;
+    left : 0;
+    right : 0;
+    bottom : 0;
+    top : 0;
+    z-index : -1;
+}
+
+.ripple_image {
+    position : absolute;
+    bottom : 0;
+    top : 20%;
+    display :inline-block;
+    width :400%;
+    height : 100%;
+    opacity : .9;
+    right : -20%;
+    animation-iteration-count:infinite; 
+    animation-fill-mode: forwards;
+    transition: all 1s ease-in-out;
+}
+
+.ripple_image:nth-child(3) {
+    
+    top : 25%;
+    animation-duration : 40s;
+    animation-name: ripple-roll;
+}
+.ripple_image:nth-child(4) {
+    opacity: 1;
+    top : 20%;
+    animation-name: ripple-roll-reverse;
+    animation-duration : 23s;
+}
+.ripple_image:nth-child(1) {
+    top : 40%;
+    animation-duration : 25s;
+    animation-name: ripple-roll;
+}
+.ripple_image:nth-child(2) {
+    top : 17%;
+    animation-name: ripple-roll-reverse;
+    animation-duration : 45s;
+}
+
+@keyframes ripple-roll {
+    0% {
+        right : -100%;
+    }
+
+    50% {
+        right : -200%;
+    }
+
+    100% {
+        right : -100%;
+    }
+}
+
+@keyframes ripple-roll-reverse {
+    0% {
+        right : -200%;
+    }
+
+    50% {
+        right : -125%;
+    }
+
+    100% {
+        right : -200%;
+    }
+}
+
+@keyframes ripple-roll-mobile {
+    0% {
+        right : -10%;
+    }
+
+    50% {
+        right : -120%;
+    }
+
+    100% {
+        right : -60%;
+    }
+}
+@keyframes ripple-roll-mobile-reverse {
+    0% {
+        right : -140%;
+    }
+
+    50% {
+        right : -10%;
+    }
+
+    100% {
+        right : -70%;
+    }
+}
+
+
+@media (max-width : 800px) {
+    .ripple_image:nth-child(3) {
+        top : 40%;
+        bottom : -1%;
+        animation-duration: 15s;
+        animation-name: ripple-roll-mobile;
+    }
+    .ripple_image:nth-child(4) {
+        top : 40%;
+        opacity: 1;
+        bottom : -2%;
+        animation-duration: 15s;
+        animation-name: ripple-roll-mobile-reverse;
+    }
+    .ripple_image:nth-child(1) {
+        top :40%; 
+        bottom : -3%;
+        animation-duration: 7s;
+        animation-name: ripple-roll-mobile;
+    }
+    .ripple_image:nth-child(2) {
+        top : 40%;
+        bottom : -1%;
+        animation-duration: 19s;
+        animation-name: ripple-roll-mobile-reverse;
+    }
+}
