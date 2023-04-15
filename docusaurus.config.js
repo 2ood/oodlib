@@ -77,7 +77,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Personal Writings', position: 'left'},
-          {to: '/projects', label: 'Projects', position: 'left'},
+          {to: '/projects/intro', label: 'Projects', position: 'left'},
           {to: '/docs/coding/intro', label : 'Coding', position : 'left'},
           {
             href: 'https://github.com/2ood',
