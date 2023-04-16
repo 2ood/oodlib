@@ -6,5 +6,51 @@ id: overview
 
 이제 이 폴더에 제가 운영하는 프로젝트들을 개별 폴더로 만들어 기록해나갈 예정입니다. 
 
-리스트
-* [개발 블로그 만들기](blog/project-log)
+## 개발 관련
+* [구글 솔루션 챌린지 2023](./coding/google-solution-challenge-2023/roadmap)
+* [블로그 만들기](./coding/blog/roadmap)
+* [음플리 서비스](./coding/music-playlist-service/roadmap)
+
+## 루틴 관련
+
+* [뉴스레터](./routine/newsletter/roadmap)
+* [운동](./routine/exercise/roadmap)
+* [독서량 늘리기](./routine/reading/roadmap)
+* [수면패턴 잡기](./routine/sleeping-pattern/roadmap)
+* [메모하는 습관 만들기](./routine/memo/roadmap)
+* [식단](./routine/meals/roadmap)
+
+## 취미 관련
+
+### 그림
+* [크로키 연습](./hobbies/drawing/roadmap)
+
+### 음악
+* [다산관 프로젝트 2023](./hobbies/music/dasangwan-project/roadmap)
+* [음플리 기록](./hobbies/music/ood-playlist/roadmap)
+* [기타 연습](./hobbies/music/guitar/roadmap)
+* [베이스 연습](./hobbies/music/bass/roadmap)
+* [재즈 공부](./hobbies/music/jazz/roadmap)
+* [작곡 공부](./hobbies/music/composing/roadmap)
+
+### 기록
+* [사진작가의 꿈](./hobbies/documentation/photographer/roadmap)
+* [일본기행 집필](./hobbies/documentation/book-japan-travel/roadmap)
+
+### 커피
+* [커피 생활](./hobbies/coffee/roadmap)
+
+### 언어
+* [일본어 공부](./hobbies/human-language/japanese/roadmap)
+* [독일어 공부](./hobbies/human-language/german/roadmap)
+* [프랑스어 공부](./hobbies/human-language/french/roadmap)
+
+### 기타
+* [요리](./hobbies/cook/roadmap)
+* [패션](./hobbies/fashion/roadmap)
+* [식물](./hobbies/plants/roadmap)
+* [요가](./hobbies/yoga/roadmap)
+
+
+
+

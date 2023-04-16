@@ -70,7 +70,8 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/projects', label: 'Projects', position: 'left'},
-          {to: '/docs/coding', label : 'Coding', position : 'left'},
+          {to: '/docs/daily-writings', label: 'Daily Writings', position: 'left'},
+          {to: '/docs/programming', label : 'Programming', position : 'left'},
           {
             href: 'https://github.com/2ood',
             label: 'GitHub',
