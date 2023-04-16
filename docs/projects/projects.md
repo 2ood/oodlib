@@ -40,6 +40,9 @@ id: overview
 ### 커피
 * [커피 생활](./hobbies/coffee/roadmap)
 
+### 당타시
+* [당신이 타들어가는 시간](./hobbies/dangtasi/roadmap)
+
 ### 언어
 * [일본어 공부](./hobbies/human-language/japanese/roadmap)
 * [독일어 공부](./hobbies/human-language/german/roadmap)

@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: project-log
 ---
-# daily-writings -project Log
+# daily-writings - project Log
 
 # 2023
 
