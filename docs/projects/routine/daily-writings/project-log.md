@@ -6,4 +6,4 @@ id: project-log
 
 # 2023
 
-[head-to : docs/daily-writings](../../../daily-writings/daily-writings)
+[head-to : docs/daily-writings](../../../daily-writings)
