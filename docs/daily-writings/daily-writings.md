@@ -1,5 +1,5 @@
 ---
-id: daily-writings
+sidebar_position: 1
 ---
 
 # daily-writings
