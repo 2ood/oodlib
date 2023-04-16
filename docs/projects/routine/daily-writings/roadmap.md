@@ -11,7 +11,7 @@ id: roadmap
 
 ### 1. 매일마다 기록을 남긴다.
 * 매일마다 docs/blog 폴더에 `yyyy-mm-dd.md` 형식으로 파일을 만들어 그날 한 일을 적는다. 
-* 파일 template은 [다음과 같다](../../daily-writings/template). 
+* 파일 template은 [다음과 같다](../../../daily-writings/template). 
 
 ### 2. 각 폴더의 의미
 
