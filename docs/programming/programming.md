@@ -20,3 +20,6 @@ This is a folder for my programming learnings.
 
 [DRF fundamentals](./django-rest-framework)
 
+[docusaurus MDX features](./docusaurus-mdx-features)
+
+[Deployment Strategy](./deploy-strategy)

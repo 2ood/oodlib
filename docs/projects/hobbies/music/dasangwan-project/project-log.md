@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: project-log
 ---
-# - project log
+# dasangwan project - project log
 
 # 2023
 
