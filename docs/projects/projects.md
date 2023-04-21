@@ -33,9 +33,11 @@ sidebar_position: 2
 * [재즈 공부](./hobbies/music/jazz/roadmap)
 * [작곡 공부](./hobbies/music/composing/roadmap)
 
-### 기록
-* [사진작가의 꿈](./hobbies/documentation/photographer/roadmap)
-* [일본기행 집필](./hobbies/documentation/book-japan-travel/roadmap)
+### 사진
+* [사진작가의 꿈](./hobbies/photographer/roadmap)
+
+### 집필
+* [일본기행 집필](./hobbies/book-japan-travel/roadmap)
 
 ### 커피
 * [커피 생활](./hobbies/coffee/roadmap)
