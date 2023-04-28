@@ -1,4 +1,4 @@
-# python fundamentals
+# python
 
 [0. virtualenv](./virtualenv)
 

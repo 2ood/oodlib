@@ -1,4 +1,4 @@
-# react-fundamentals
+# react
 
 [I. 리액트 소개 - 리액트의 정의, 장단점](./what-is-react)
 

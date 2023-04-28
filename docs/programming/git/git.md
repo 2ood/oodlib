@@ -1,4 +1,4 @@
-# git-fundamentals
+# git
 
 [1. What is git?](./what-is-git)
 

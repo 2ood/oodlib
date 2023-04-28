@@ -10,16 +10,23 @@ This is a folder for my programming learnings.
 
 [agile-programming](./agile-programming)
 
-[git-fundamentals](./git-fundamentals)
+[git-fundamentals](./git)
 
-[react-fundamentals](./react-fundamentals)
+[react-fundamentals](./react)
 
-[php-fundamentals](./php-fundamentals)
+[php-fundamentals](./php)
 
-[html, css, js fundamentals](./html-css-js-fundamentals)
+[html fundamentals](./html)
+
+[css fundamentals](./css)
+
+[js fundamentals](./javascript)
 
 [DRF fundamentals](./django-rest-framework)
 
 [docusaurus MDX features](./docusaurus-mdx-features)
 
 [Deployment Strategy](./deploy-strategy)
+
+[python](./python)
+
