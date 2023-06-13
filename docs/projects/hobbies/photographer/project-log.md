@@ -15,3 +15,5 @@ id: project-log
 [2023-04-28) 초상권에 대하여 작성](./portrait-rights)
 
 [2023-04-28) Unsplash Look back February 읽기](./2023-04-28)
+
+[2023-06-13) 이미지를 정리하자](./2023-06-13)
