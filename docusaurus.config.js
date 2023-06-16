@@ -84,7 +84,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/projects/', label: 'Projects', position: 'left'},
           {to: '/docs/daily-writings/', label: 'Daily Writings', position: 'left'},
           {to: '/docs/programming/', label : 'Programming', position : 'left'},
@@ -102,17 +101,29 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Browse docs',
-                to: '/docs/intro',
+                label: 'Projects',
+                to: '/docs/projects/',
               },
+              {
+                label : "Daily Writings",
+                to : '/docs/daily-writings/'
+              },
+              {
+                label : "programming",
+                to : "/docs/programming/"
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Tistory Blog',
                 href: 'https://2ood.tistory.com',
+              },
+              {
+                label: 'Developer Profile',
+                href: 'https://2ood.github.io/2ood/',
               },
               {
                 label: 'GitHub',

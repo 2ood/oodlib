@@ -10,6 +10,8 @@ sidebar_position: 2
 * [구글 솔루션 챌린지 2023](./coding/google-solution-challenge-2023/roadmap)
 * [블로그 만들기](./coding/blog/roadmap)
 * [음플리 서비스](./coding/music-playlist-service/roadmap)
+* [DB 서버 만들기](./coding/db-server/roadmap)
+* [뭐사지? 프로젝트](./coding/db-server/roadmap)
 
 ## 루틴 관련
 
