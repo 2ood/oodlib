@@ -57,3 +57,6 @@ DOM 이란 Document object model
 
 ### 2) 높은 상태관리 복잡도
 복잡도 관리를 위해 다른 툴도 배워야 할지도.
+
+## 4. 리액트의 (개괄적인) 작동 원리.
+기본 `index.html` 파일에 `<div id="root"></div>`가 적혀있는데, 그 DOM 안에 ReactDOM을 렌더해서 넣는 것이다. 
