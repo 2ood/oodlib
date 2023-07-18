@@ -7,7 +7,6 @@ sidebar_position: 2
 이제 이 폴더에 제가 운영하는 프로젝트들을 개별 폴더로 만들어 기록해나갈 예정입니다. 
 
 ## 개발 관련
-* [구글 솔루션 챌린지 2023](./coding/google-solution-challenge-2023/roadmap)
 * [블로그 만들기](./coding/blog/roadmap)
 * [음플리 서비스](./coding/music-playlist-service/roadmap)
 * [DB 서버 만들기](./coding/db-server/roadmap)
@@ -59,5 +58,6 @@ sidebar_position: 2
 * [요가](./hobbies/yoga/roadmap)
 
 
+## ARCHIVED
 
-
+* [구글 솔루션 챌린지 2023](./archive/discontinued/google-solution-challenge-2023/roadmap)
