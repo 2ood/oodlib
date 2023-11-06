@@ -1,7 +1,7 @@
 ### Role & Responsibility
 
 CEO, R&D, Marketing, Production, Finance
-![[Pasted image 20230922165647.png]]
+![image](./20230922165647.png)
 
 ### KPI 지표
 매출액
