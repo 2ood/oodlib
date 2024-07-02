@@ -48,7 +48,7 @@ injection attack 이란,
 -> XSS 공격 방어 가능. 
 
 ## 4. JSX의 사용법
-> XML/HTML ... {Javascript 코드}... XML/HTML
+> XML/HTML ... Javascript 코드... XML/HTML
 
 * JSX에서 HTML안의 중괄호 안은 JS라 생각하면 됨.
 
